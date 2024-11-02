@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on a E-commerce collage project which is a full stack project <br>I am currently learning the MERN stack which include React js and node js mostly. <br>I am last year Computer science student 
+final year computer science student , working full-stack E-commerce store MERN stack
+having interest in trending techs and high demand skills  
 
 
 ## 🌐 Socials:
