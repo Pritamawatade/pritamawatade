@@ -1,5 +1,5 @@
 # 💫 About Me:
-final year computer science student , working full-stack E-commerce store MERN stack
+final year computer science student , currently part of 6 month cohort full stack + devOps + Gen AI ,
 having interest in trending techs and high demand skills  
 
 
