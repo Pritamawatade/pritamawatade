@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Currently exploring artificial intelligence. Constantly working on React express NEXT js
 
 
