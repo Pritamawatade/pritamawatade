@@ -1,5 +1,5 @@
 # About Me
-Currently exploring artificial intelligence. Constantly working on React express NEXT js
+Experience in building full-stack applications, currently exploring AI.
 
 
 ## 🌐 Socials:
