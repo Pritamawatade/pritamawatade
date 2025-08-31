@@ -1,4 +1,4 @@
-# I'm Pritam
+# I'm Pritam:
 Experience in building full-stack applications, currently exploring AI.
 
 
