@@ -4,7 +4,11 @@
 
 I'm a software engineer with 2+ years of experience shipping production full-stack applications, specializing in Generative AI. I build RAG systems, LLM agents, and the backends and pipelines around them using Node.js, TypeScript, and Python.
 
-[LinkedIn](https://linkedin.com/in/pritam-awatade) · [Email](mailto:Pritamawatade.work@gmail.com) · [X](https://x.com/pritam_awatade) · [Stack Overflow](https://stackoverflow.com/users/21219874/pritam-awatade) · [YouTube](https://youtube.com/@pritam_awatde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-awatade)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Pritamawatade.work@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pritam_awatade)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21219874/pritam-awatade)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@pritam_awatde)
 
 ---
 
@@ -24,16 +28,22 @@ I'm a software engineer with 2+ years of experience shipping production full-sta
 
 ## Featured Projects
 
-### [Docwise](https://github.com/pritamawatade/REPLACE_WITH_REPO) · Advanced RAG Research Assistant
-`LangChain` `Qdrant` `PostgreSQL` `OpenAI` `TypeScript` · [Live](https://REPLACE_WITH_LIVE_URL)
+### Docwise · Advanced RAG Research Assistant
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pritamawatade/REPLACE_WITH_REPO)
+[![Live](https://img.shields.io/badge/Live_Demo-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE_WITH_LIVE_URL)
+
+`LangChain` `Qdrant` `PostgreSQL` `OpenAI` `TypeScript`
 
 - Query-variant generation (rewriting, step-back prompting, sub-question decomposition, HyDE) fused across vector, full-text, and SQL retrieval with Reciprocal Rank Fusion and relevance-floored reranking.
 - CRAG-style self-correcting retrieval: an LLM grades context 0–10, retries with suggested keywords for up to 3 rounds, and refuses to answer below a hard floor instead of hallucinating.
 - Source-aware chunking (900-token prose chunks, 150-token overlap; 60–90s media cues) so every answer cites an exact page or timestamp.
 - Labelled evaluation harness reporting hit-rate and MRR per pipeline stage behind feature flags, so each technique's contribution is measured, not assumed.
 
-### [Codegod](https://github.com/pritamawatade/REPLACE_WITH_REPO) · DSA Problem Solving Platform
-`OpenAI Agents SDK` `GPT-4.1` `React` `Express` `Redis` · [Live](https://REPLACE_WITH_LIVE_URL)
+### Codegod · DSA Problem Solving Platform
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pritamawatade/codegod)
+[![Live](https://img.shields.io/badge/Live_Demo-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://codegod-frontend.vercel.app/)
+
+`OpenAI Agents SDK` `GPT-4.1` `React` `Express` `Redis`
 
 - Agentic AI assistant that calculates time and space complexity of submitted solutions and uses LLM tool-calling to recommend questions by skill level. Serving 4 live paid users.
 - Monaco-based editor, playlists, streaks, a Redis-cached leaderboard, and an admin dashboard (React, Zustand, Tailwind CSS).
@@ -42,6 +52,8 @@ I'm a software engineer with 2+ years of experience shipping production full-sta
 ---
 
 ## Technical Skills
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,nodejs,express,fastify,react,nextjs,tailwind,postgres,mongodb,mysql,redis,prisma,docker,git,githubactions,playwright" alt="Tech stack icons" />
 
 | | |
 |---|---|
@@ -55,16 +67,8 @@ I'm a software engineer with 2+ years of experience shipping production full-sta
 
 ---
 
-## Education & Certifications
-
-- **Bachelor of Computer Application**, P.A.H. University · 2022 – 2025 · CGPA 7.53/10
-- **IBM Generative & Agentic AI Foundation**, IBM
-- **Docker Essentials for Developers**, IBM
-
----
-
 ## Get in Touch
 
 Open to conversations about GenAI, RAG, and full-stack engineering. The best way to reach me is [email](mailto:Pritamawatade.work@gmail.com) or [LinkedIn](https://linkedin.com/in/pritam-awatade).
 
-<sub>[Buy me a coffee](https://buymeacoffee.com/pritam_awatade)</sub>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/pritam_awatade)
