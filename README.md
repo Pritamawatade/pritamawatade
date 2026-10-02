@@ -28,8 +28,8 @@ I'm a software engineer with 2+ years of experience shipping production full-sta
 ## Featured Projects
 
 ### Docwise · Advanced RAG Research Assistant
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pritamawatade/REPLACE_WITH_REPO)
-[![Live](https://img.shields.io/badge/Live_Demo-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://REPLACE_WITH_LIVE_URL)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pritamawatade/prepiq)
+[![Live](https://img.shields.io/badge/Live_Demo-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://prep-iq-two.vercel.app/)
 
 `LangChain` `Qdrant` `PostgreSQL` `OpenAI` `TypeScript`
 
