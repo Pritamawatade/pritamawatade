@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-Stack & Generative AI** · Pune, India
 
-I'm a software engineer with 2+ years of experience shipping production full-stack applications, specializing in Generative AI. I build RAG systems, LLM agents, and the backends and pipelines around them using Node.js, TypeScript, and Python.
+I'm a software engineer with 1+ years of experience shipping production full-stack applications, specializing in Generative AI. I build RAG systems, LLM agents, and the backends and pipelines around them using Node.js, TypeScript, and Python.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-awatade)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Pritamawatade.work@gmail.com)
