@@ -1,4 +1,4 @@
-# Hi, I'm Pritam Awatade
+# Hi, I'm Pritam
 
 **Software Engineer · Full-Stack & Generative AI** · Pune, India
 
@@ -68,6 +68,6 @@ I'm a software engineer with 1+ years of experience shipping production full-sta
 
 ## Get in Touch
 
-Open to conversations about GenAI, RAG, and full-stack engineering. The best way to reach me is [email](mailto:Pritamawatade.work@gmail.com) or [LinkedIn](https://linkedin.com/in/pritam-awatade).
+Open to conversations, The best way to reach me is [email](mailto:Pritamawatade.work@gmail.com) or [x](https://x.com/Pritam_Awatade).
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/pritam_awatade)
