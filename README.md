@@ -66,7 +66,7 @@ I'm a software engineer with 1+ years of experience shipping production full-sta
 
 ---
 
-## Get in Touch
+### Get in Touch
 
 Open to conversations, The best way to reach me is [email](mailto:Pritamawatade.work@gmail.com) or [x](https://x.com/Pritam_Awatade).
 
