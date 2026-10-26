@@ -52,7 +52,7 @@ I'm a software engineer with 1+ years of experience shipping production full-sta
 
 ## Technical Skills
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,nodejs,express,react,nextjs,tailwind,postgres,mongodb,mysql,redis,prisma,docker,git,githubactions,playwright" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,nodejs,express,react,nextjs,tailwind,postgres,mongodb,redis,prisma,docker,git,githubactions,playwright" alt="Tech stack icons" />
 
 | | |
 |---|---|
